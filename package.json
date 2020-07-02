@@ -1,0 +1,13 @@
+{
+  "name": "amplifyutils",
+  "version": "0.1.0",
+  "description": "Amplify Utils",
+  "main": "index.js",
+  "private": true,
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-amplify": "^3.0.18"
+  }
+}
